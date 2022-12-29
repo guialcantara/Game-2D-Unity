@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f38afc9fd209e0043ba400753ecef779, type: 3}
+  m_Name: NPC_1
+  m_EditorClassIdentifier: 
+  actor: {fileID: 4879692134785712545, guid: 6e12ea62afa9ba84f8eb270b86771e9d, type: 3}
+  speakerSprite: {fileID: 0}
+  sentence: 
+  dialogues:
+  - actorName: 
+    profile: {fileID: -8091321643688609963, guid: c774bcf13df4bc64494b99df2e823051, type: 3}
+    sentence:
+      pt_br: "Ol\xE1!"
+      en_us: 
+      es_es: 
+  - actorName: 
+    profile: {fileID: -8091321643688609963, guid: c774bcf13df4bc64494b99df2e823051, type: 3}
+    sentence:
+      pt_br: Tudo bem?
+      en_us: 
+      es_es: 
